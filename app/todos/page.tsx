@@ -5,7 +5,8 @@ function Todos() {
     return (
         <div>
             {/* @ts-ignore */}
-            <TodoList />
+            {/* <TodoList /> */}
+            <h1>This is where the Todos will be listed...</h1>
         </div>
     )
 }
